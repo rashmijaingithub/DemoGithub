@@ -4,7 +4,8 @@ public class AdditionalClass {
 	
 public void all()
 {
-	System.out.println("second class");
+	System.out.println("second class name for Additional class");
+	
 }
 
 }
